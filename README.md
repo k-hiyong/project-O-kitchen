@@ -61,7 +61,7 @@ window.addEventListener("load", function(){
 	});
 });
 ```
-<div class="image" display="flex" >
+<div class="image" display="flex" gap="15px" >
 <image width= "30%" src= "mdimg/mobile1.png">
 <image width= "30%" src= "mdimg/mobile2.png">
 <image width= "30%" src= "mdimg/mobile3.png">
