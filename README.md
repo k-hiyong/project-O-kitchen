@@ -61,12 +61,13 @@ window.addEventListener("load", function(){
 	});
 });
 ```
-
-<image width= "30%" style="display:inline-block;" src= "mdimg/mobile1.png">
-<image width= "30%" style="display:inline-block;" src= "mdimg/mobile2.png">
-<image width= "30%" style="display:inline-block;" src= "mdimg/mobile3.png">
-<image width= "30%" style="display:inline-block;" src= "mdimg/mobile4.png">
-<image width= "30%" style="display:inline-block;" src= "mdimg/mobile5.png">
+<figure class="third"  >
+<image width= "30%" src= "mdimg/mobile1.png">
+<image width= "30%" src= "mdimg/mobile2.png">
+<image width= "30%" src= "mdimg/mobile3.png">
+<image width= "30%" src= "mdimg/mobile4.png">
+<image width= "30%" src= "mdimg/mobile5.png">
+</figure>
 
 ### ✅ 메인 Swiper
 
